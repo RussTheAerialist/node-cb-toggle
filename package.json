@@ -1,0 +1,16 @@
+{
+  "name": "cb-toggle",
+  "version": "1.0.0",
+  "description": "A callback that you can toggle between two separate states",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "Russell Hay",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
